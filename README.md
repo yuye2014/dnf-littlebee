@@ -1,24 +1,7 @@
-# dnf-littlebee
+# DNF - 小蜜蜂
 
-## Project setup
-```
-yarn install
-```
+编年、心悦、马杰洛、公会……福利一键领取！
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+---
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> 项目施工中，敬请期待……
