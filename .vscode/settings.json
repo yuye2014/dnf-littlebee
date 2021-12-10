@@ -1,5 +1,8 @@
 {
+    "npm.exclude": "dist_electron",
+    // "npm-intellisense.packageSubfoldersIntellisense": false,
     "cSpell.words": [
+        "littlebee",
         "VUEJS_DEVTOOLS"
     ]
 }
