@@ -20,7 +20,8 @@ async function createWindow () {
             // 使用插件。不，别管这个了
             // 见科莱曼。github。io/vue cli插件electron builder/guide/security。html#节点集成了解更多信息
             nodeIntegration: process.env.ELECTRON_NODE_INTEGRATION,
-            contextIsolation: !process.env.ELECTRON_NODE_INTEGRATION
+            contextIsolation: !process.env.ELECTRON_NODE_INTEGRATION,
+            webSecurity: false // 取消跨域限制
         }
     })
 
